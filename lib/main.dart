@@ -7,6 +7,6 @@ void main(){
 class MyApp extends StatelessWidget{
   @override
   Widget build(BuildContext context){
-    return MaterialApp(title: "QuestForge" ,home: Scaffold(body: Text("hello world")));
+    return MaterialApp(title: "QuestForge" ,home: Scaffold(appBar: AppBar(title: Text("_QuestForge_"),),body: Text("hello world")));
   }
 }
