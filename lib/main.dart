@@ -17,8 +17,11 @@ class MyApp extends StatelessWidget {
       title: "QuestForge",
       home: Scaffold(
         appBar: AppBar(title: Text("_QuestForge_")),
-        body: Center(child: Column(children: TaskList,)),
+        body: Center(child: Column(children: TaskList)),
       ),
     );
   }
 }
+
+
+//random bullshit go
