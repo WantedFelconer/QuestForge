@@ -107,7 +107,3 @@ Planned milestones:
 QuestForge is intended to evolve into a structured productivity system that balances practicality with motivation. The emphasis will remain on stability, clarity, and long-term usability rather than feature bloat.
 
 ---
-
-
-
-Tell me which vibe you want.
